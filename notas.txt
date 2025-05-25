@@ -1,0 +1,15 @@
+- instalar a biblioteca bcrypt usando pip atráves do terminal
+
+pip install bcrypt
+
+####para iniciar o código dê play no arquivo main.py####
+
+- login para testes
+
+ALUNO
+email: aluno123@gmail.com
+senha: aluno123
+
+PROFESSOR
+email: professor123@gmail.com
+senha: professor123

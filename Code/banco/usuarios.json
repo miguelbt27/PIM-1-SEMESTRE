@@ -1,0 +1,16 @@
+{
+    "alunos": {
+        "aluno123@gmail.com": {
+            "nome": "Richard Alves Da Silva",
+            "idade": 18,
+            "senha": "$2b$12$sgG.qAEiIcptFOYnSbcaL.LbTNKoQcLscU2cgp7TOkyKwtmbY2Oyy"
+        }
+    },
+    "professores": {
+        "professor123@gmail.com": {
+            "nome": "Simas Turbo",
+            "idade": 69,
+            "senha": "$2b$12$0ZUD/ZVBpPGMPqcEbKp84OHnPNZY5of/dmwjkDecIU536pnVTXKGG"
+        }
+    }
+}
